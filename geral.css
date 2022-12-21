@@ -1,1 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(60, 220, 54);
+}
+.elemento {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    color: black;
+    font-size: 1.2rem;
+    background: #ce2c2c;
 
+}
+#imagem{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    margin-left: 570px;
+    margin-top: -150px;
+}

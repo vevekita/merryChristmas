@@ -17,9 +17,6 @@ body{
     width: 400px;
     height: 400px;
     position: absolute;
-    /*margin-left: 570px;
-    margin-top: -150px;*/
-    left: 37%;
-    /*right: 70%;*/
-    top: 30%;
+    margin-left: 570px;
+    margin-top: -150px;
 }
